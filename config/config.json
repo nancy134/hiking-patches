@@ -12,7 +12,8 @@
   "settings": {
     "pagination": 4,
     "summary_length": 200,
-    "blog_folder": "blogs"
+    "blog_folder": "blogs",
+    "patch_folder": "patches"
   },
 
   "nav_button": {
