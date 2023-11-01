@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 const Posts = ({ posts }) => {
-  const { blog_folder, summary_length } = config.settings;
+  const { patch_folder, summary_length } = config.settings;
   return (
     <div className="section row pb-0">
       <div className="col-12 pb-12 lg:pb-24">
@@ -24,7 +24,7 @@ const Posts = ({ posts }) => {
           <div className="col-12 md:col-6">
             <h2 className="h3 mb-2 mt-4">
               <Link
-                href={`/${blog_folder}/${posts[0].slug}`}
+                href={`/${patch_folder}/${posts[0].slug}`}
                 className="block hover:text-primary"
               >
                 {posts[0].frontmatter.title}
@@ -38,7 +38,7 @@ const Posts = ({ posts }) => {
             </p>
             <Link
               className="btn btn-primary mt-4"
-              href={`/${blog_folder}/${posts[0].slug}`}
+              href={`/${patch_folder}/${posts[0].slug}`}
               rel=""
             >
               Read More
@@ -59,7 +59,7 @@ const Posts = ({ posts }) => {
           )}
           <h2 className="h3 mb-2 mt-4">
             <Link
-              href={`/${blog_folder}/${post.slug}`}
+              href={`/${patch_folder}/${post.slug}`}
               className="block hover:text-primary"
             >
               {post.frontmatter.title}
@@ -68,7 +68,7 @@ const Posts = ({ posts }) => {
           <p className="text-text">{post.frontmatter.desc}</p>
           <Link
             className="btn btn-primary mt-4"
-            href={`/${blog_folder}/${post.slug}`}
+            href={`/${patch_folder}/${post.slug}`}
             rel=""
           >
             Read More
