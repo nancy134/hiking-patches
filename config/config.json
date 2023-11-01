@@ -10,7 +10,7 @@
   },
 
   "settings": {
-    "pagination": 4,
+    "pagination": 5,
     "summary_length": 200,
     "blog_folder": "blogs",
     "patch_folder": "patches"

@@ -4,7 +4,7 @@ import Base from "@layouts/Baseof";
 import { getListPage, getSinglePage } from "@lib/contentParser";
 import { parseMDX } from "@lib/utils/mdxParser";
 import { markdownify } from "@lib/utils/textConverter";
-import Posts from "@partials/Posts";
+import Patches from "@partials/Patches";
 const { patch_folder } = config.settings;
 
 // patch pagination
@@ -21,7 +21,7 @@ const PatchPagination = ({ postIndex, posts, currentPage, pagination }) => {
       <section className="section">
         <div className="container">
           {markdownify(title, "h1", "h1 text-center font-normal text-[56px]")}
-          <Posts posts={currentPosts} />
+          <Patches posts={currentPosts} />
           <Pagination
             section={patch_folder}
             totalPages={totalPages}

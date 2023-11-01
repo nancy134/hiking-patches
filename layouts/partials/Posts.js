@@ -3,7 +3,7 @@ import { plainify } from "@lib/utils/textConverter";
 import Image from "next/image";
 import Link from "next/link";
 
-const Patches = ({ posts }) => {
+const Posts = ({ posts }) => {
   const { patch_folder, summary_length } = config.settings;
   return (
     <div className="section row pb-0">
@@ -79,4 +79,4 @@ const Patches = ({ posts }) => {
   );
 };
 
-export default Patches;
+export default Posts;

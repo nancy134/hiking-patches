@@ -1,7 +1,7 @@
 ---
-title: "Ossippee Range"
+title: "New Hampshire 48 4000-foot peaks"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-4.jpg"
+image: "/images/48-4k.jpeg"
 date: 2022-08-04T05:00:00Z
 draft: false
 ---
