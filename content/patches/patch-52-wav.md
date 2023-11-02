@@ -52,4 +52,12 @@ draft: false
 | Shelburne Moriah Mountain |   3,735 ft   |
 | Middle Sister |   3,340 ft   |
 | Smarts Mountain |   3,238 ft   |
-| Smarts Mountain |   3,238 ft   |
+| Stairs Mountain |   3,463 ft   |
+| Stinson Mountain |   2,900 ft   |
+| Mount Success |   3,565 ft   |
+| Sugarloaf |   3,710 ft   |
+| Middle Sugarloaf |   2,539 ft   |
+| Table Mountain |   2,610 ft   |
+| Mount Tremont |   3,371 ft   |
+| Dickey Mountain |   2,734 ft   |
+| Mount Willard |   2,865 ft   |
