@@ -32,3 +32,24 @@ draft: false
 | Jennings Peak |   3,460 ft   |
 | Mount Kearsarge |   2,930 ft   |
 | Kearsarge North |   3,268 ft   |
+| Magalloway Mountain |   3,383 ft   |
+| Cherry Mountain |   3,573 ft   |
+| North Moat Mountain |   3,196 ft   |
+| South Moat Mountain |   2,770 ft   |
+| Mount Monadnock |   3,165 ft   |
+| Mount Morgan |   2,220 ft   |
+| Mount Parker |   3,004 ft   |
+| Mount Paugus |   3,198 ft   |
+| Mount Pemigewasset |   2,557 ft   |
+| Mount Percival |   2,212 ft   |
+| Percy Peaks |   3,430 ft   |
+| Pine Mountain |   2,404 ft   |
+| Potash Mountain |   2,680 ft   |
+| Mount Resolution |   3,415 ft   |
+| Mount Roberts |   2,582 ft   |
+| Rodger's Ledge |   2,965 ft   |
+| Mount Shaw |   2,990 ft   |
+| Shelburne Moriah Mountain |   3,735 ft   |
+| Middle Sister |   3,340 ft   |
+| Smarts Mountain |   3,238 ft   |
+| Smarts Mountain |   3,238 ft   |
