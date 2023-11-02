@@ -16,7 +16,18 @@ To earn this patch hike all the trails in the Lakes Region Conservation Trust (L
 | Bald Knob      | 1,801 ft | 
 | Black Snout      |   2,803 ft    |
 | Mount Shaw |   2,990 ft    | 
-
+| Federal Hill |   690 ft    | 
+| Green Mountain |   1,884 ft    | 
+| Kearsarge Mountain |   2,920 ft    | 
+| Magalloway Mountain |   3,383 ft    | 
+| Milan Hill |   1,720 ft    | 
+| Pack Monadnock |   2,280 ft    | 
+| Oak Hill |   960 ft    | 
+| Pawtuckaway South Mountain |   908 ft    | 
+| Pitcher Mountain |   2,162 ft    | 
+| Prospect Mountain |   2,067 ft    | 
+| Red Hill |   2,020 ft    | 
+| Warner Hill |   600 ft    | 
 
 ### Trails
 | Name | Miles |
