@@ -10,7 +10,7 @@ To earn the patch hike all 48 4000-ft peaks in New Hampshire
 ### Peaks
 | Peak        |     Elevation      | 
 | ------------- | :-----------: | 
-| col 3 is      | right-aligned |
-| col 2 is      |   centered    |
-| zebra stripes |   are neat    |
+| Mount Adams | 5,744 ft |
+| Mount Bond     | 4,698 ft    |
+| Bondcliff | 4,265 ft      |
 
