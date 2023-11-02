@@ -1,43 +1,41 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
-  image: /images/banner-art.svg
+  title: Your single source for all hiking patches 
+  content: Earn patches while hiking trails in New England 
+  image: /images/banner-art.png
   button:
     label: "Contact Us"
     link: "/contact"
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: Be Safe! 
   features:
-  - name: "Clean Code"
+  - name: "Hike with Others"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
+    content: "Try not to hike alone.  There are many hiking groups.  Find others you will enjoy hiking with."
+  - name: "Get Your NH Hike Safe Card"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
+    content: "Get your NH Hike Safe Card to support the rescuers.  You never know when you will need them."
+  - name: "The 10 Essentials"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
+    content: "Learn what the 10 essentials are and have them in your pack."
+  - name: "Tell Others Your plan"
     icon: "/images/love.svg"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
+  - name: "Check the Weather"
     icon: "/images/speedometer.svg"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
+  - name: "The Mountain Will Be There"
     icon: "/images/cloud.svg"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
+  - title: "New Hampshire's 48 4000-ft peaks"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/48-4k.jpeg"
     button:
       enable: true
       label: Check it out
