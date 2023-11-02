@@ -25,7 +25,7 @@ To earn this patch hike all the trails in the Lakes Region Conservation Trust (L
 | Bald Knob Trail | 1.7 miles|
 | Mount Roberts Trail | 2.5 miles | 
 | Turtleback Mtn Trail |5.3 miles | 
-| Brook Walk |5,280 ft |
+| Brook Walk |0.8 miles |
 | Cold Spring Trail |1.3 miles | 
 | Faraway Mt. Connector Trail |0.5 miles | 
 | Faraway Mt. Trail |2.9 miles | 
