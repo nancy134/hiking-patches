@@ -31,10 +31,7 @@ const Patches = ({ posts }) => {
               </Link>
             </h2>
             <p className="text-text">
-              {plainify(
-                posts[0].content?.slice(0, Number(summary_length)),
-                "div"
-              )}
+              {posts[0].frontmatter.description}
             </p>
             <Link
               className="btn btn-primary mt-4"
@@ -65,7 +62,7 @@ const Patches = ({ posts }) => {
               {post.frontmatter.title}
             </Link>
           </h2>
-          <p className="text-text">{post.frontmatter.desc}</p>
+          <p className="text-text">{post.frontmatter.description}</p>
           <Link
             className="btn btn-primary mt-4"
             href={`/${patch_folder}/${post.slug}`}
