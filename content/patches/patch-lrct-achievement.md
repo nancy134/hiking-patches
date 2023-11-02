@@ -18,6 +18,13 @@ To earn this patch hike all the trails in the Lakes Region Conservation Trust (L
 | Mount Shaw |   2,990 ft    | 
 | Mount Roberts | 2,582 ft | 
 | Turtleback Mountain |2,203 ft | 
+| Brook Walk |5,280 ft |
+| Cold Spring Trail |6,864 ft | 
+| Faraway Mt. Connector Trail |2,640 ft | 
+| Faraway Mt. Trail |15,312 ft | 
+
+
+
 ### Trails
 | Name | Miles |
 | ---- | ----: |
