@@ -12,23 +12,23 @@ feature:
   title: Be Safe! 
   features:
   - name: "Hike with Others"
-    icon: "/images/code.svg"
+    icon: "/images/people-group-solid.svg"
     content: "Try not to hike alone.  There are many hiking groups.  Find others you will enjoy hiking with."
   - name: "Get Your NH Hike Safe Card"
-    icon: "/images/oop.svg"
+    icon: "/images/credit-card-regular.svg"
     content: "Get your NH Hike Safe Card to support the rescuers.  You never know when you will need them."
   - name: "The 10 Essentials"
-    icon: "/images/user-clock.svg"
+    icon: "/images/person-hiking-solid.svg"
     content: "Learn what the 10 essentials are and have them in your pack."
-  - name: "Tell Others Your plan"
-    icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+  - name: "Tell Others Your Plan"
+    icon: "/images/house-user-solid.svg"
+    content: "Make sure others know your plans like where you will be hiking and when you are expected back."
   - name: "Check the Weather"
-    icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    icon: "/images/cloud-solid.svg"
+    content: "Make sure you check the weather for the mountain you are hiking.  In many places the weather in the mountains is different from ground level."
   - name: "The Mountain Will Be There"
-    icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    icon: "/images/mountain-sun-solid.svg"
+    content: "If your hike isn't going to plan, don't worry about turning around. The mountain will always be there for you to try again."
 
 # services
 services:
