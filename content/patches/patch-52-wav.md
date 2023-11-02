@@ -22,3 +22,13 @@ draft: false
 | Mount Crawford |   3,119 ft   |
 | Mount Cube |   2,909 ft   |
 | North Doublehead |   3,053 ft   |
+| Eagle Crag |   3,030 ft   |
+| Eastman Mountain |   2,939 ft   |
+| Mount Hayes |   2,555 ft   |
+| Hedgehog Mountain |   2,532 ft   |
+| The Horn |   3,905 ft   |
+| Imp Face |   3,165 ft   |
+| Mount Israel |   2,630 ft   |
+| Jennings Peak |   3,460 ft   |
+| Mount Kearsarge |   2,930 ft   |
+| Kearsarge North |   3,268 ft   |
