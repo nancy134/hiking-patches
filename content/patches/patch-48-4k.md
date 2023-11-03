@@ -56,3 +56,5 @@ To earn the patch hike all 48 4000-ft peaks in New Hampshire
 | Mount Whiteface | 4,020 ft      |
 | Wildcat Mountain | 4,422 ft      |
 | Wildcat D | 4,422 ft      |
+| Mount Willey | 4,285 ft      |
+| Zealand Mountain | 4,260 ft      |
