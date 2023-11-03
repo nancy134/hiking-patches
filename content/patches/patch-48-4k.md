@@ -40,3 +40,19 @@ To earn the patch hike all 48 4000-ft peaks in New Hampshire
 | Mount Monroe | 5,384 ft      |
 | Mount Moosilauke | 4,802 ft      |
 | Mount Moriah | 4,049 ft      |
+| Mount Osceola | 4,340 ft      |
+| Mount Osceola, East Peak | 4,156 ft      |
+| Owl's Head, East Peak | 4,025 ft      |
+| Mount Passaconaway | 4,043 ft      |
+| Mount Pierce | 4,310 ft      |
+| Mount Tecumseh | 4,003 ft      |
+| Mount Tom | 4,051 ft      |
+| Middle Tripyramid | 4,140 ft      |
+| North Tripyramid | 4,180 ft      |
+| North Twin | 4,761 ft      |
+| South Twin | 4,902 ft      |
+| Mount Washington | 6,288 ft      |
+| Mount Waumbek | 4,006 ft      |
+| Mount Whiteface | 4,020 ft      |
+| Wildcat Mountain | 4,422 ft      |
+| Wildcat D | 4,422 ft      |
