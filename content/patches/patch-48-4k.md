@@ -26,3 +26,12 @@ To earn the patch hike all 48 4000-ft peaks in New Hampshire
 | Galehead Mountain | 4,024 ft      |
 | Mount Garfield | 4,500 ft      |
 | Mount Hale | 4,054 ft      |
+| Mount Hancock | 4,420 ft      |
+| South Hancock | 4,319 ft      |
+| Mount Isolation | 4,004 ft      |
+| Mount Jackson | 4,052 ft      |
+| Mount Jefferson | 5,712 ft      |
+| North Kinsman Mountain | 4,293 ft      |
+| South Kinsman Mountain | 4,358 ft      |
+| Mount Lafayette | 5,260 ft      |
+| Mount Liberty | 4,459 ft      |
