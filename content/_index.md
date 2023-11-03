@@ -1,7 +1,7 @@
 ---
 banner:
   title: Your single source for all hiking patches 
-  content: Earn patches while hiking trails in New England 
+  content: "Earning hiking patches can be an exhilarating and rewarding experience, adding a layer of excitement and achievement to any hiking adventure. These patches symbolize not only the completion of a specific trail or route but also the determination, resilience, and passion for exploring the great outdoors. They serve as tangible mementos of the breathtaking landscapes, challenging terrains conquered, and the memories created along the way. With each patch earned, there comes a sense of accomplishment and pride, motivating hikers to push their limits, discover new trails, and connect with nature on a deeper level. The process of collecting patches becomes a delightful pursuit, fostering a community of like-minded enthusiasts who share a common love for the wilderness and a desire to continuously challenge themselves." 
   image: /images/banner-art.png
   button:
     label: "Contact Us"
@@ -33,7 +33,7 @@ feature:
 
 # services
 services:
-  - title: "NH 48 4000-ft peaks"
+  - title: "NH 48 4000-ft patch"
     content: "Hiking New Hampshire’s 48 4,000-foot peaks is a challenging and rewarding endeavor, often pursued by avid hikers seeking to earn the “48 4k Footer” patch. These peaks, mostly part of the White Mountains, offer stunning vistas and a chance to experience the state’s natural beauty. To earn the patch, hikers must complete all 48 peaks, which often involves extensive planning, navigation skills, and physical endurance. The accomplishment is a testament to one’s commitment to the outdoors and a deep appreciation for New Hampshire’s rugged landscapes. Each peak has its own unique character and charm, making the journey a memorable adventure for those who take on the challenge."
     images:
       - "/images/48-4k.jpeg"
@@ -42,7 +42,7 @@ services:
       label: Check it out
       link: /patches/patch-48-4k 
 
-  - title: "52 With a View"
+  - title: "52 With a View patch"
     content: "Earning the '52 With a View' patch is a remarkable achievement for hikers in New Hampshire. This hiking challenge involves summiting 52 scenic peaks in the state, each offering breathtaking views and distinct natural beauty. It’s not only a testament to one’s dedication to exploration but also a celebration of the diverse landscapes that New Hampshire has to offer. Completing this challenge provides a deep connection to the state’s wilderness and a strong sense of accomplishment, making it a sought-after recognition among outdoor enthusiasts."
     images: 
       - "/images/52-wav.jpeg"
@@ -51,16 +51,16 @@ services:
       label: Check it out
       link: /patches/patch-52-wav 
   
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "...and many more patches"
+    content: "There are many more patches available at for all different abilites."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/patch-belknap.jpeg"
+      - "/images/fire-tower.jpeg"
+      - "/images/lrct-patch.jpeg"
     button:
       enable: true
       label: Check it out
-      link: /contact
+      link: /patches
 
   - title: "A company standing different from others"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
