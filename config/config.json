@@ -1,9 +1,9 @@
 {
   "site": {
-    "title": "Bigspring Light Nextjs",
+    "title": "Hiking Patches",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "/images/person-hiking-solid-small.svg",
+    "logo": "/images/hiking-patches-white.png",
     "logo_width": "200",
     "logo_height": "48",
     "logo_text": "Bigspring Light"

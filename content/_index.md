@@ -9,7 +9,8 @@ banner:
 
 # feature
 feature: 
-  title: Be Safe! 
+  title: Be Safe!
+  content: "Hiking safety is paramount for a successful and enjoyable outdoor adventure. Prioritize preparation by researching your chosen trail, packing appropriate gear, and sharing your itinerary with a trusted person. Dress for the weather, stay hydrated, and carry essential items like a map, first-aid kit, and emergency communication tools. Follow trail etiquette, respect wildlife, and be ready to adjust your plans for unexpected weather conditions. Group hiking is recommended, and having a clear emergency protocol ensures you’re well-prepared for any situation. With these precautions, you can relish the beauty of nature while staying safe on the trail."
   features:
   - name: "Hike with Others"
     icon: "/images/people-group-solid.svg"
@@ -32,23 +33,23 @@ feature:
 
 # services
 services:
-  - title: "New Hampshire's 48 4000-ft peaks"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "NH 48 4000-ft peaks"
+    content: "Hiking New Hampshire’s 48 4,000-foot peaks is a challenging and rewarding endeavor, often pursued by avid hikers seeking to earn the “48 4k Footer” patch. These peaks, mostly part of the White Mountains, offer stunning vistas and a chance to experience the state’s natural beauty. To earn the patch, hikers must complete all 48 peaks, which often involves extensive planning, navigation skills, and physical endurance. The accomplishment is a testament to one’s commitment to the outdoors and a deep appreciation for New Hampshire’s rugged landscapes. Each peak has its own unique character and charm, making the journey a memorable adventure for those who take on the challenge."
     images:
       - "/images/48-4k.jpeg"
     button:
       enable: true
       label: Check it out
-      link: /contact
+      link: /patches/patch-48-4k 
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "52 With a View"
+    content: "Earning the '52 With a View' patch is a remarkable achievement for hikers in New Hampshire. This hiking challenge involves summiting 52 scenic peaks in the state, each offering breathtaking views and distinct natural beauty. It’s not only a testament to one’s dedication to exploration but also a celebration of the diverse landscapes that New Hampshire has to offer. Completing this challenge provides a deep connection to the state’s wilderness and a strong sense of accomplishment, making it a sought-after recognition among outdoor enthusiasts."
     images: 
-      - "/images/service-slide-1.png"
+      - "/images/52-wav.jpeg"
     button:
       enable: true
       label: Check it out
-      link: /contact
+      link: /patches/patch-52-wav 
   
   - title: "It’s a team of experienced and skilled people with distributions"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
