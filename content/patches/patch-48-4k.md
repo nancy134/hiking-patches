@@ -23,3 +23,6 @@ To earn the patch hike all 48 4000-ft peaks in New Hampshire
 | Mount Eisenhower | 4,780 ft      |
 | Mount Field | 4,340 ft      |
 | Mount Flume | 4,328 ft      |
+| Galehead Mountain | 4,024 ft      |
+| Mount Garfield | 4,500 ft      |
+| Mount Hale | 4,054 ft      |
