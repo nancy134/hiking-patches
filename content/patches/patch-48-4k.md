@@ -17,3 +17,9 @@ To earn the patch hike all 48 4000-ft peaks in New Hampshire
 | Mount Cabot | 4,170 ft      |
 | Cannon Mountain | 4,100 ft      |
 | Mount Carrigain | 4,700 ft      |
+| Carter Dome | 4,832 ft      |
+| Middle Carter Mountain | 4,610 ft      |
+| South Carter Mountain | 4,430 ft      |
+| Mount Eisenhower | 4,780 ft      |
+| Mount Field | 4,340 ft      |
+| Mount Flume | 4,328 ft      |
