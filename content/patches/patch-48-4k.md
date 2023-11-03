@@ -13,4 +13,7 @@ To earn the patch hike all 48 4000-ft peaks in New Hampshire
 | Mount Adams | 5,744 ft |
 | Mount Bond     | 4,698 ft    |
 | Bondcliff | 4,265 ft      |
-
+| West Bond | 4,540 ft      |
+| Mount Cabot | 4,170 ft      |
+| Cannon Mountain | 4,100 ft      |
+| Mount Carrigain | 4,700 ft      |
