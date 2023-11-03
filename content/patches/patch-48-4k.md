@@ -35,3 +35,8 @@ To earn the patch hike all 48 4000-ft peaks in New Hampshire
 | South Kinsman Mountain | 4,358 ft      |
 | Mount Lafayette | 5,260 ft      |
 | Mount Liberty | 4,459 ft      |
+| Mount Lincoln | 5,089 ft      |
+| Mount Madison | 5,367 ft      |
+| Mount Monroe | 5,384 ft      |
+| Mount Moosilauke | 4,802 ft      |
+| Mount Moriah | 4,049 ft      |
