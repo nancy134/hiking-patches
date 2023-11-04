@@ -5,16 +5,12 @@
       "url": "/"
     },
     {
-      "name": "Blog",
-      "url": "/blogs"
-    },
-    {
       "name": "Patches",
       "url": "/patches"
     },
     {
-      "name": "Pricing",
-      "url": "/pricing"
+      "name": "Peaks",
+      "url": "/peaks"
     },
     {
       "name": "Contact",

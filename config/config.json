@@ -13,7 +13,8 @@
     "pagination": 20,
     "summary_length": 200,
     "blog_folder": "blogs",
-    "patch_folder": "patches"
+    "patch_folder": "patches",
+    "peak_folder": "peaks"
   },
 
   "nav_button": {
