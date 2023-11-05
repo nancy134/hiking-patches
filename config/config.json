@@ -14,7 +14,8 @@
     "summary_length": 200,
     "blog_folder": "blogs",
     "patch_folder": "patches",
-    "peak_folder": "peaks"
+    "peak_folder": "peaks",
+    "hike_folder": "hikes"
   },
 
   "nav_button": {
