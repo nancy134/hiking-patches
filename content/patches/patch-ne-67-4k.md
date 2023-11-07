@@ -7,6 +7,7 @@ draft: false
 ---
 ### Peaks
 | Name | Elevation | State |
+|------|----------:|------|
 | Mount Mansfield | 4,393 ft | Vermont |
 | Killington Peak | 4,235 ft | Vermont |
 | Mount Ellen | 4,083 ft | Vermont |
