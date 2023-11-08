@@ -8,8 +8,6 @@ draft: false
 ### Peaks
 | Name | Elevation | State |
 |------|----------:|------|
-| Peak        |     Elevation      | 
-| ------------- | :-----------: | 
 | Mount Adams | 5,744 ft | New Hampshire |
 | Mount Bond     | 4,698 ft    | New Hampshire |
 | Bondcliff | 4,265 ft      | New Hampshire |
