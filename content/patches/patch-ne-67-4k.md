@@ -68,7 +68,7 @@ draft: false
 | Old Speck | 4,160 ft | Maine | 
 | North Brother | 4,151 ft|  Maine| 
 | Bigelow Mountain | 4,145 ft | Maine | 
-| Saddleback Mountain | 4,120|  ft Maine| 
+| Saddleback Mountain | 4,120 ft| Maine| 
 | Avery Peak | 4,088 ft | Maine| 
 | Saddleback Mountain - The Horn | 4,041 ft|  Maine| 
 | South Crocker Mountain | 4,040 ft | Maine| 
