@@ -7,7 +7,7 @@ draft: false
 ---
 |	Mountain	|Elevation|	State|
 |---------- | -------:|-----|
-| 1	Washington	| 6288	NH
+| 1	Washington	| 6288|	NH|
 | 2	Adams	| 5774	NH
 | 3	Jefferson	| 5712	NH
 | 4	Monroe	| 5384	NH
