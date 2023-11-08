@@ -5,7 +5,8 @@ image: "/images/patch-ne-100.jpeg"
 date: 2022-01-07T06:00:00+00:00
 draft: false
 ---
-	Mountain	Elevation in feet	State
+|	Mountain	|Elevation|	State|
+|---------- | -------:|-----|
 | 1	Washington	| 6288	NH
 | 2	Adams	| 5774	NH
 | 3	Jefferson	| 5712	NH
