@@ -8,7 +8,7 @@ draft: false
 ### How to get this patch
 To earn this patch hike all 48 peaks in the list.
 Send an application and a fee to the AMC Four Thousand Footer Club
-[AMC Four Thousand Footer Club](https://amc4000footer.org)]([https://www.google.com](https://amc4000footer.org))
+[AMC Four Thousand Footer Club](https://amc4000footer.org)](https://www.google.com](https://amc4000footer.org)
 ### Peaks
 | Peak        |     Elevation      | 
 | ------------- | :-----------: | 
