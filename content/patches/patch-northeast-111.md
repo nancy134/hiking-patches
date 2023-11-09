@@ -23,15 +23,15 @@ draft: false
 13	|  North Twin	  |  4761	  |  NH
 14	|  Katahdin, Hamlin Peak	  |  4756	  |  ME
 15	|  Carrigain	  |  4700	  |  NH
-16	Bond	4698	NH
-17	Middle Carter	4610	NH
-18	West Bond	4540	NH
-19	Garfield	4500	NH
-20	Liberty	4459	NH
-21	South Carter	4430	NH
-22	Wildcat, A peak	4422	NH
-23	Hancock	4420	NH
-24	Mount Mansfield	4393	VT
+16	|  Bond	  |  4698	  |  NH
+17	|  Middle Carter	|  4610	  |  NH
+18	|  West Bond	|  4540	|  NH
+19	|  Garfield	|  4500	  |  NH
+20	|  Liberty	|  4459	  |  NH
+21	|  South Carter	|  4430	|  NH
+22	|  Wildcat, A peak	|  4422	  |  NH
+23	|  Hancock	|  4420	  |  NH
+24	|  Mount Mansfield	|  4393	  |  VT
 25	South Kinsman	4358	NH
 26	Field	4340	NH
 27	Osceola	4340	NH
