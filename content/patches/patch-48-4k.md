@@ -12,7 +12,7 @@ To earn this patch:
 ### Peaks
 || Peak        |     Elevation      | 
 |-| ------------- | :-----------: | 
-|1| Mount Washington | 6,288 ft      |
+|1| [Mount Washington](../peaks/washington.md) | 6,288 ft      |
 |2| Mount Adams | 5,744 ft |
 |3| Mount Jefferson | 5,712 ft      |
 |4| Mount Monroe | 5,384 ft      |
