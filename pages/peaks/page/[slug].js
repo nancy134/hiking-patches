@@ -60,7 +60,7 @@ export const getStaticPaths = () => {
 // get peak pagination content
 export const getStaticProps = async ({ params }) => {
   const currentPage = parseInt((params && params.slug) || 1);
-  const { pagination } = config.settings;
+  const { pagination_peak } = config.settings;
   const posts = getSinglePage(`content/${peak_folder}`).sort(
     (post1, post2) =>
       post2.frontmatter.elevation - post1.frontmatter.elevation
@@ -70,7 +70,7 @@ export const getStaticProps = async ({ params }) => {
 
   return {
     props: {
-      pagination: pagination,
+      pagination: pagination_peak,
       posts: posts,
       currentPage: currentPage,
       postIndex: postIndex,
