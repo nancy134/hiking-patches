@@ -63,7 +63,7 @@ export const getStaticProps = async ({ params }) => {
   const { pagination } = config.settings;
   const posts = getSinglePage(`content/${hike_folder}`).sort(
     (post1, post2) =>
-      new Date(post2.frontmatter.date) - new Date(post1.frontmatter.date)
+      new Date(post1.frontmatter.date) - new Date(post2.frontmatter.date)
   );
   const postIndex = await getListPage(`content/${hike_folder}/_index.md`);
   const mdxContent = await parseMDX(postIndex.content);
