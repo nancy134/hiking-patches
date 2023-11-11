@@ -63,7 +63,7 @@ export const getStaticProps = async ({ params }) => {
   const { pagination } = config.settings;
   const posts = getSinglePage(`content/${peak_folder}`).sort(
     (post1, post2) =>
-      new Date(post2.frontmatter.date) - new Date(post1.frontmatter.date)
+      post2.frontmatter.elevation - post1.frontmatter.elevation
   );
   const postIndex = await getListPage(`content/${peak_folder}/_index.md`);
   const mdxContent = await parseMDX(postIndex.content);
