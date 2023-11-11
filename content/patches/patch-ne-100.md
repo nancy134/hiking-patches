@@ -7,7 +7,7 @@ draft: false
 ---
 ||	Mountain	|Elevation|	State|
 |-|---------- | -------:|-----|
-|1| Washington | 6,288 ft | NH|
+|1| Washington | 6288 | NH|
 |2| Adams | 5774| NH |
 |3| Jefferson | 5712 | NH |
 |4| Monroe | 5384 | NH
@@ -19,7 +19,7 @@ draft: false
 | 10| Carter Dome | 4832 | NH
 | 11| Moosilauke | 4802 | NH
 | 12| Eisenhower | 4780 | NH
-| 13| North Twin | 4761 NH
+| 13| North Twin | 4761 | NH
 | 14| Katahdin, Hamlin Peak | 4756 | ME
 | 15| Carrigain | 4700 | NH
 | 16| Bond | 4698 | NH
@@ -36,7 +36,7 @@ draft: false
 | 27| Osceola | 4340 | NH
 | 28| Flume | 4328 | NH
 | 29| South Hancock | 4319 | NH
-| 30| Pierce | 4310 NH
+| 30| Pierce | 4310| NH
 | 31| North Kinsman | 4293 | NH
 | 32| Willey | 4285 | NH
 | 33| Bondcliff | 4265 | NH
@@ -106,4 +106,4 @@ draft: false
 | 97| Scar Ridge | 3774 | NH
 | 98| Elephant Mountain | 3772 | ME
 | 99| Dorset Mountain | 3770 | VT
-| 100| The Cannon Balls, NE Peak | 3769 NH
+| 100| The Cannon Balls, NE Peak | 3769| NH
