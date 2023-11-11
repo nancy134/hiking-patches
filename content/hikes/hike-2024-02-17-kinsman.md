@@ -2,7 +2,7 @@
 title: "Saturday, Feb 17th Winter Hike to Kinsman" 
 description: ""
 image: ""
-date: 2023-02-17T06:00:00+00:00
+date: 2024-02-17T06:00:00+00:00
 draft: false
 ---
 ### Link
