@@ -15,6 +15,7 @@ const PostSingle = ({ frontmatter, content, mdxContent }) => {
           <div className="row">
             <article className="col-12 mx-auto text-center md:col-8">
               {image && (
+                <div className="patch-image">
                 <Image
                   src={image}
                   height="500"
@@ -24,7 +25,9 @@ const PostSingle = ({ frontmatter, content, mdxContent }) => {
                   layout="responsive"
                   className="rounded-lg"
                 />
+                </div>
               )}
+
               {markdownify(title, "h1", "h2 mb-6 mt-6 text-left")}
 
               <div className="content mb-16 text-left">
