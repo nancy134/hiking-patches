@@ -118,8 +118,8 @@ draft: false
 |108|  Mount Colvin	|  4035	|  NY
 |109|  East Dix Mountain	|  4026	|  NY
 |110|  Dial Mountain	|  4003	|  NY
-|  Blake Peak	|  3970	|  NY
-|  Cliff Mountain	|  3944	|  NY
-|  Nye Mountain	|  3839	|  NY
-|  Couchsachraga Peak	|  3793	|  NY
-|  Whiteface Mountain	|  4865	|  NY
+|111|  Blake Peak	|  3970	|  NY
+|112|  Cliff Mountain	|  3944	|  NY
+|113|  Nye Mountain	|  3839	|  NY
+|114|  Couchsachraga Peak	|  3793	|  NY
+|115|  Whiteface Mountain	|  4865	|  NY
