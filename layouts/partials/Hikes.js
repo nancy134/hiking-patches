@@ -14,7 +14,7 @@ const Hikes = ({ posts }) => {
               href={`/${hike_folder}/${post.slug}`}
               className="block hover:text-primary"
             >
-              {post.frontmatter.title}
+              {post.frontmatter.fdate} --- {post.frontmatter.title}
             </Link>
           </p>
           <p className="text-text">{post.frontmatter.description}</p>
