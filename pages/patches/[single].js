@@ -35,11 +35,41 @@ export const getStaticPaths = () => {
 // get post single content
 export const getStaticProps = async ({ params }) => {
   const { single } = params;
-
+  
   // Get patch page (ie, content/patches/patch-52-wav.md)
   const patchPages = getSinglePage(`content/${patch_folder}`);
   const patchPage = patchPages.filter((p) => p.slug == single);
   var patchPageContent = patchPage[0].content;
+
+  // Get hike-patch pages (ie, data/hike-patch)
+  const hikePatchPages = getSinglePage('data/hike-patch');
+  // Loop through to see if this patch is in hike
+  var hikes = [];
+  for (var j=0; j<hikePatchPages.length; j++){
+      var hikePatchContent = hikePatchPages[j].content;
+      var hikePatches = hikePatchContent.split('\n');
+      for (var k=0; k<hikePatches.length; k++){
+          if (hikePatches[k] == single){
+              hikes.push(hikePatchPages[j].slug);
+          }
+      }
+  }
+  // ### Upcoming Hikes
+  patchPageContent += "\n";
+  patchPageContent += "### Upcoming Hikes\n";
+  patchPageContent += "|Date|Title|\n";
+  patchPageContent += "|--|--|\n";
+  for (var l=0; l<hikes.length; l++){
+     const hikePages = getSinglePage('content/hikes');
+     const hikePage = hikePages.filter((p) => p.slug == hikes[l]);
+
+     var date = new Date(Date.parse(hikePage[0].frontmatter.date));
+
+     patchPageContent +=
+       "|" + date.toDateString() +
+       "|" + "[" + hikePage[0].frontmatter.title + "](" + "../hikes/" + hikePage[0].slug + ")" +
+       "|\n";
+  }
 
   // Get patch-peak page (ie, data/patch-peak/patch-52-wav.md)
   const patchPeakPages = getSinglePage('data/patch-peak'); 
@@ -52,7 +82,7 @@ export const getStaticProps = async ({ params }) => {
     // Get all the peaks (ie, content/peaks/*.md)
     const peakPages = getSinglePage('content/peaks');
 
-    // Loop through all the peaks for this patch and create the Peaks table
+    // ### Peaks
     patchPageContent += "\n";
     patchPageContent += "### Peaks\n"
     patchPageContent += "||Peak|Elevation|\n|--|--|--:|\n";
