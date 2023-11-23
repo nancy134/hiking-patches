@@ -1,5 +1,5 @@
 ---
-title: Rand 
+title: Rand Mountain
 description: ""
 image: ""
 elevation: 1883

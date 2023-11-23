@@ -1,7 +1,7 @@
 ---
-title: Mount Major 
+title: Whiteface Mountain 
 description: ""
 image: ""
-elevation: 1786
+elevation: 1660
 draft: false
 ---

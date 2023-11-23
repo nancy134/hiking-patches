@@ -1,7 +1,7 @@
 ---
-title: WhitefaceBelnap 
+title: West Quarry 
 description: ""
 image: ""
-elevation: 1660
+elevation: 1894 
 draft: false
 ---

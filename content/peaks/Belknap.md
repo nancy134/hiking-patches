@@ -1,5 +1,5 @@
 ---
-title: Bellknap 
+title: Bellknap Mountain
 description: ""
 image: ""
 elevation: 2382

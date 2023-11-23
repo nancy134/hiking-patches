@@ -1,7 +1,7 @@
 ---
-title: Mount Major 
+title: Gunstock Mountain 
 description: ""
 image: ""
-elevation: 1786
+elevation: 2250 
 draft: false
 ---

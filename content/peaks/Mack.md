@@ -1,7 +1,7 @@
 ---
-title: Mount Washington 
+title: Mack  Mountain
 description: ""
 image: ""
-elevation: 6288
+elevation: 1945 
 draft: false
 ---

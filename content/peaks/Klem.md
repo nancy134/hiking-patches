@@ -1,7 +1,7 @@
 ---
-title: Mount Major 
+title: Klem Mountain
 description: ""
 image: ""
-elevation: 1786
+elevation: 2001
 draft: false
 ---
