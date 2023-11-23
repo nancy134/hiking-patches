@@ -1,6 +1,7 @@
 ---
-title: Mount Moosilauke 
-elevation: 4802
+title: Mount Adams 
+elevation: 5774
 state: New Hampshire
 draft: false
 ---
+

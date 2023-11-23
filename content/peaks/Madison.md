@@ -1,6 +1,7 @@
 ---
-title: Mount Moosilauke 
-elevation: 4802
+title: Mount Madison 
+elevation: 5367
 state: New Hampshire
 draft: false
 ---
+

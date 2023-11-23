@@ -1,6 +1,7 @@
 ---
-title: Mount Moosilauke 
-elevation: 4802
+title: Mount Lafeyette 
+elevation: 5260
 state: New Hampshire
 draft: false
 ---
+

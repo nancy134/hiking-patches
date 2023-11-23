@@ -1,6 +1,7 @@
 ---
-title: Mount Moosilauke 
-elevation: 4802
+title: Mount Jefferson 
+elevation: 5712
 state: New Hampshire
 draft: false
 ---
+

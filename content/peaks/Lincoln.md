@@ -1,6 +1,7 @@
 ---
-title: Mount Moosilauke 
-elevation: 4802
+title: Mount Lincoln 
+elevation: 5089
 state: New Hampshire
 draft: false
 ---
+
