@@ -87,6 +87,7 @@ export const getStaticProps = async ({ params }) => {
     patchPageContent += "### Peaks\n"
     patchPageContent += "||Peak|Elevation|\n|--|--|--:|\n";
     for (var i=0; i<patchPeaks.length; i++){
+      console.log(patchPeaks[i]);
       if (patchPeaks[i].length > 0){
         const peakPage = peakPages.filter((p) => p.slug == patchPeaks[i]);
         patchPageContent += 
