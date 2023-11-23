@@ -96,6 +96,34 @@ export const getStaticProps = async ({ params }) => {
       }
     }
   }
+
+  // Get patch-trail page (ie, data/pack-trail/patch-lrct-achievement
+  const patchTrailPages = getSinglePage('data/patch-trail');
+  const patchTrailPage = patchTrailPages.filter((p) => p.slug == single);
+  if (patchTrailPage.length > 0){
+
+      // Get all the trails for this patch
+      const patchTrails = patchTrailPage[0].content.split('\n');
+
+      // Get all the trails (ie, content/trails/*.md)
+      const trailPages = getSinglePage('content/trails');
+
+      // ### Trails
+      patchPageContent += "\n";
+      patchPageContent += "### Trails\n";
+      patchPageContent += "||Trail|Distance|\n|--|--|--:|\n";
+      for (var m=0; m<patchTrails.length; m++){
+        if (patchTrails[m].length > 0){
+          const trailPage = trailPages.filter((p) => p.slug == patchTrails[m]);
+          patchPageContent +=
+            "|" + (m+1) + 
+            "|" + trailPage[0].frontmatter.title + 
+            "|" + trailPage[0].frontmatter.distance + " miles" + 
+            "|" + "\n";
+        }
+      }
+  }
+
   const mdxContent = await parseMDX(patchPageContent); 
   return {
     props: {
