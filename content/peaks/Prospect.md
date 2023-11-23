@@ -1,7 +1,7 @@
 ---
-title: Mount Shaw 
+title: Propect Mountain 
 description: ""
 image: ""
-elevation: 2990
+elevation: 1720 
 draft: false
 ---

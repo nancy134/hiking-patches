@@ -1,7 +1,7 @@
 ---
-title: Mount Shaw 
+title: Blue Job Mountain 
 description: ""
 image: ""
-elevation: 2990
+elevation: 1352 
 draft: false
 ---

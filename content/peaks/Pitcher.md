@@ -1,7 +1,7 @@
 ---
-title: Mount Shaw 
+title: Pitcher Mountain 
 description: ""
 image: ""
-elevation: 2990
+elevation: 2067 
 draft: false
 ---

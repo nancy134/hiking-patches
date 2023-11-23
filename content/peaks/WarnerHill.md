@@ -1,7 +1,7 @@
 ---
-title: Mount Shaw 
+title: Warner Hill 
 description: ""
 image: ""
-elevation: 2990
+elevation: 600 
 draft: false
 ---

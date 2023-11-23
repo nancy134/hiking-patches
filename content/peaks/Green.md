@@ -1,7 +1,7 @@
 ---
-title: Mount Shaw 
+title: Green Mountain 
 description: ""
 image: ""
-elevation: 2990
+elevation: 1884 
 draft: false
 ---

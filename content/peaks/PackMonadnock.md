@@ -1,7 +1,7 @@
 ---
-title: Mount Shaw 
+title: Pack Monadnock 
 description: ""
 image: ""
-elevation: 2990
+elevation: 2280
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: BaldKnob 
+title: Bald Knob 
 description: ""
 image: ""
 elevation: 1801
