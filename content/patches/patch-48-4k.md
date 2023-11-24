@@ -9,5 +9,5 @@ draft: false
 ### How to get this patch
 To earn this patch:
 1. Hike all 48 peaks in the list.
-2. Send an application and fee to the [AMC Four Thousand Footer Club](https://amc4000footer.org)
+2. Send an application and fee to the <a href="https://amc4000footer.org" target="_blank">AMC Four Thousand Footer Club</a>
 
