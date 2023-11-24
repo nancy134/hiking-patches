@@ -6,17 +6,8 @@ order: 16
 date: 2022-03-02T06:00:00+00:00
 draft: false
 ---
-### Trails 
-
-| Trail        |  Distance|
-| ------------- | :-----------: |
-| Mount Shaw |  2,990 ft | 
-| Black Snout | 2,803 ft | 
-| Faraway Mountain	| 2,782 ft | 
-| Mount Roberts | 2,582 ft | 
-| Mount Flagg | 2,390 ft | 
-| Turtleback Mountain |  2,203 ft | 
-| Tate Mountain | 2,060 ft | 
-| Bayle Mountain | 1,853 ft | 
-| Bald Knob | 1,801 ft | 
-| Sentinel Mountain | 1,680 ft | 
+#### How to earn this patch
+To earn this patch:
+1. Join the <a href="https://www.facebook.com/groups/512989592604540">Ossipee Range Hikers</a> Facebook page
+2. Hike all the peaks in the list
+3. Send your completed list and a small fee to the administrator of the Facebook page
