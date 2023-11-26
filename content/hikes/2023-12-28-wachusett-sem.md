@@ -1,6 +1,6 @@
 ---
-title: "" 
-description: "SEM Beginner Winter Hiking Series - Wachusett #2"
+title: "SEM Beginner Winter Hiking Series - Wachsett #2" 
+description: ""
 image: ""
 date: 2023-12-28T06:00:00+00:00
 fdate: Dec 28, 2023 (Thurs)
