@@ -1,7 +1,6 @@
 ---
 title: The Horn 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 3905
 draft: false
 ---
