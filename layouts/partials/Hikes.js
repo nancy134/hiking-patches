@@ -8,16 +8,24 @@ const Hikes = ({ posts }) => {
   return (
     <div className="section row pb-0">
       {posts.slice(0).map((post, i) => (
-        <div key={`key-${i}`} className="col-12">
-          <p className="">
-            <Link
-              href={`/${hike_folder}/${post.slug}`}
-              className="block hover:text-primary"
-            >
-              {post.frontmatter.fdate} --- {post.frontmatter.title}
-            </Link>
-          </p>
-          <p className="text-text">{post.frontmatter.description}</p>
+        <div key={`key-${i}`}>
+          <div className="row">
+            <div className="col-2">
+              <p className="">
+              {post.frontmatter.fdate}
+              </p>
+            </div>
+            <div className="col-6">
+              <p>
+              <Link
+                href={`/${hike_folder}/${post.slug}`}
+                className="block text-primary"
+              >
+              {post.frontmatter.title}
+              </Link>
+              </p>
+            </div>
+          </div>
         </div>
       ))}
     </div>
