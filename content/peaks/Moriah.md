@@ -1,7 +1,6 @@
 ---
 title: Mount Moriah 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 4049
 date: 2022-05-01T06:00:00+00:00
 draft: false
