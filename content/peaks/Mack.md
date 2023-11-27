@@ -1,7 +1,6 @@
 ---
 title: Mack  Mountain
-description: ""
-image: ""
+state: New Hampshire
 elevation: 1945 
 draft: false
 ---
