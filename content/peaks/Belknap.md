@@ -1,7 +1,6 @@
 ---
 title: Bellknap Mountain
-description: ""
-image: ""
+state: New Hampshire
 elevation: 2382
 draft: false
 ---
