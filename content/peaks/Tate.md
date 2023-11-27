@@ -1,7 +1,6 @@
 ---
 title: Tate 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 2060
 draft: false
 ---
