@@ -1,7 +1,6 @@
 ---
 title: Klem Mountain
-description: ""
-image: ""
+state: New Hampshire
 elevation: 2001
 draft: false
 ---
