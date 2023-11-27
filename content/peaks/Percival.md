@@ -1,7 +1,6 @@
 ---
 title: Mount Percival 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 2212 
 draft: false
 ---
