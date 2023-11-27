@@ -1,7 +1,6 @@
 ---
 title: Turtleback Mountain
-description: ""
-image: ""
+state: New Hampshire
 elevation: 2203
 draft: false
 ---
