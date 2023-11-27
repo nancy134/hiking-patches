@@ -1,7 +1,6 @@
 ---
 title: Straitback South
-description: ""
-image: ""
+state: New Hampshire
 elevation: 1890
 draft: false
 ---
