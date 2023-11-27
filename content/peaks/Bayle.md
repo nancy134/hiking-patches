@@ -1,7 +1,6 @@
 ---
 title: Bayle Mountain 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 1853
 draft: false
 ---
