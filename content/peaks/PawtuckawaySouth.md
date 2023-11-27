@@ -1,7 +1,6 @@
 ---
 title: Pawtuckaway South Mountain 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 2162 
 draft: false
 ---
