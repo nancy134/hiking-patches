@@ -1,7 +1,6 @@
 ---
 title: Red Hill 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 2020 
 draft: false
 ---
