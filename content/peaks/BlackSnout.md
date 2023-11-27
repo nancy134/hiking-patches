@@ -1,7 +1,6 @@
 ---
 title: Black Snout 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 2803
 draft: false
 ---
