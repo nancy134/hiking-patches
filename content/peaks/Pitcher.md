@@ -1,7 +1,6 @@
 ---
 title: Pitcher Mountain 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 2067 
 draft: false
 ---
