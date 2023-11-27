@@ -1,7 +1,7 @@
 ---
-title: "WHP: Blue Hills 2" 
-description: ""
-image: ""
+title: "WHP: Blue Hills 2"
+type: AMC
+organization: Boston Chapter
 date: 2023-12-10T06:00:00+00:00
 fdate: Dec 10, 2023 (Sun)
 draft: false

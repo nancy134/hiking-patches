@@ -8,14 +8,14 @@ const Hikes = ({ posts }) => {
   return (
     <div className="section row pb-0">
       {posts.slice(0).map((post, i) => (
-        <div key={`key-${i}`}>
-          <div className="row">
-            <div className="col-2">
-              <p className="">
+        <div key={`key-${i}`} >
+          <div className="grid lg:grid-cols-4" style={{gridTemplateColumns: '1fr 3fr 1fr 1fr'}}>
+            <div >
+              <p>
               {post.frontmatter.fdate}
               </p>
             </div>
-            <div className="col-6">
+            <div>
               <p>
               <Link
                 href={`/${hike_folder}/${post.slug}`}
@@ -23,6 +23,16 @@ const Hikes = ({ posts }) => {
               >
               {post.frontmatter.title}
               </Link>
+              </p>
+            </div>
+            <div className="sm:hidden lg:block">
+              <p>
+              {post.frontmatter.type}
+              </p>
+            </div>
+            <div className="sm:hidden lg:block">
+              <p>
+              {post.frontmatter.organization}
               </p>
             </div>
           </div>

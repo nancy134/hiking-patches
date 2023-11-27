@@ -1,7 +1,7 @@
 ---
 title: "Hike Mount Wachusett" 
-description: ""
-image: ""
+type: AMC
+organization: Boston CHapter
 date: 2023-12-09T06:00:00+00:00
 fdate: Dec 9, 2023 (Sat)
 draft: false

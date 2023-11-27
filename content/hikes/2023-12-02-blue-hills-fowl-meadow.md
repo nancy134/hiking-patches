@@ -1,7 +1,7 @@
 ---
-title: "Trail Trace the Blue Hills, Fowl Meadow" 
-description: ""
-image: ""
+title: "Trail Trace the Blue Hills, Fowl Meadow"
+type: AMC
+organization: Souteastern Mass Chapter
 date: 2023-12-02T06:00:00+00:00
 fdate: Dec 2, 2023 (Sat)
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "Hike Mount Tremont and Imp Face with Overnight Stay at Harvard Outing Club" 
-description: ""
-image: ""
+type: AMC
+organization: Boston Chapter
 date: 2023-12-01T06:00:00+00:00
 fdate: Dec 1, 2023 (Fri)
 draft: false

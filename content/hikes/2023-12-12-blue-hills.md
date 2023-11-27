@@ -1,7 +1,7 @@
 ---
 title: "Late Autum Hike Blue Hills" 
-description: ""
-image: ""
+type: AMC
+organization: Southeastern Mass Chapter
 date: 2023-12-10T06:00:00+00:00
 fdate: Dec 12, 2023 Tue
 draft: false

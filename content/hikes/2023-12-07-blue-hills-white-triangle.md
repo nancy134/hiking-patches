@@ -1,7 +1,7 @@
 ---
 title: "Blue Hills Hike: White Triangle Loop and Yellow Triangle Loop" 
-description: ""
-image: ""
+type: AMC
+organization: Southeastern Mass Chapter
 date: 2023-12-07T06:00:00+00:00
 fdate: Dec 7, 2023 (Thurs)
 draft: false

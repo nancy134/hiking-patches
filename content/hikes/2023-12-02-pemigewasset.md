@@ -1,8 +1,8 @@
 ---
 title: "Working in the 52 WA - Mount Pemigewasset" 
-description: ""
-image: ""
-date: 2024-02-17T06:00:00+00:00
+type: AMC
+organization: New Hampshire Chapter
+date: 2023-12-02T06:00:00+00:00
 fdate: Dec 2, 2023 (Sat)
 draft: false
 ---

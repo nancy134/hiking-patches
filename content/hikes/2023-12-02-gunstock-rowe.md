@@ -1,7 +1,7 @@
 ---
 title: "SEM Beginner Winter Hiking Series #3 - Gunstock and Rowe Mountains" 
-description: ""
-image: ""
+type: AMC
+organization: Southeastern Mass Chapter
 date: 2023-12-02T06:00:00+00:00
 fdate: Dec 2, 2023 (Sat)
 draft: false

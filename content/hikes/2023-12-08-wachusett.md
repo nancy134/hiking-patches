@@ -1,7 +1,7 @@
 ---
 title: "Dawn Patrol @ Wachusett Mountain (Dec 8)" 
-description: ""
-image: ""
+type: AMC
+organization: Boston Chapter
 date: 2023-12-08T06:00:00+00:00
 fdate: Dec 8, 2023 (Fri)
 draft: false

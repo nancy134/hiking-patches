@@ -1,5 +1,5 @@
 import config from "@config/config.json";
-import PostSingle from "@layouts/PostSingle";
+import PeakSingle from "@layouts/PeakSingle";
 import { getSinglePage } from "@lib/contentParser";
 import { parseMDX } from "@lib/utils/mdxParser";
 const { peak_folder } = config.settings;
@@ -9,7 +9,7 @@ const Article = ({ post, authors, mdxContent, slug }) => {
   const { frontmatter, content } = post[0];
 
   return (
-    <PostSingle
+    <PeakSingle
       frontmatter={frontmatter}
       content={content}
       mdxContent={mdxContent}

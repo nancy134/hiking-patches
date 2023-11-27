@@ -1,8 +1,8 @@
 ---
 title: "Leader Development Series - Mt Washington & Mt Monroe" 
-description: ""
-image: ""
-date: 2024-12-09T06:00:00+00:00
+type: AMC
+organization: Boston Chapter
+date: 2023-12-09T06:00:00+00:00
 fdate: Dec 9,2023 (Sat)
 draft: false
 ---
