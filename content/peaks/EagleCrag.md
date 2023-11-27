@@ -1,7 +1,6 @@
 ---
 title: Eagle Crag 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 3030 
 draft: false
 ---
