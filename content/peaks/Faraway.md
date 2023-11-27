@@ -1,7 +1,6 @@
 ---
 title: Faraway 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 2782
 draft: false
 ---
