@@ -1,7 +1,6 @@
 ---
 title: West Quarry 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 1894 
 draft: false
 ---
