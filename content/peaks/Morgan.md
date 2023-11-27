@@ -1,7 +1,6 @@
 ---
 title: Mount Morgan 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 2220 
 draft: false
 ---
