@@ -1,7 +1,6 @@
 ---
 title: Green Mountain 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 1884 
 draft: false
 ---
