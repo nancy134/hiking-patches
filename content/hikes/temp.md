@@ -1,7 +1,7 @@
 ---
-title: "" 
-description: ""
-image: ""
+title: ""
+type: ""
+organization: ""
 date: 2024-02-17T06:00:00+00:00
 fdate:
 draft: false
