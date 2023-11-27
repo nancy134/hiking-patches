@@ -1,7 +1,6 @@
 ---
 title: Middle Sister 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 3340 
 draft: false
 ---
