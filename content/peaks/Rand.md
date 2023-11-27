@@ -1,7 +1,6 @@
 ---
 title: Rand Mountain
-description: ""
-image: ""
+state: New Hampshire
 elevation: 1883
 draft: false
 ---
