@@ -1,7 +1,6 @@
 ---
 title: Mount Webster
-description: ""
-image: ""
+state: New Hampshire
 elevation: 3910
 draft: false
 ---
