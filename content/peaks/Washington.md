@@ -1,7 +1,5 @@
 ---
 title: Mount Washington 
-author: hiking-patches.com
-description: Mount Washington
 elevation: 6288
 state: New Hampshire
 draft: false

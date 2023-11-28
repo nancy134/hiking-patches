@@ -9,7 +9,7 @@ const PatchSingle = ({ frontmatter, content, mdxContent }) => {
   description = description ? description : content.slice(0, 120);
 
   return (
-    <Base title={title} description={description}>
+    <Base title={title} description={description} image={image}>
       <section className="section">
         <div className="container">
           <div className="row">

@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Hiking Patches",
-    "base_url": "/",
+    "base_url": "https://www.hiking-patches.com",
     "favicon": "/images/person-hiking-solid-small.svg",
     "logo": "/images/hiking-patches-white.png",
     "logo_width": "200",

@@ -6,7 +6,7 @@ import Base from "./Baseof";
 
 const HikeSingle = ({ frontmatter, content, mdxContent }) => {
   let { description, title, image, fdate } = frontmatter;
-  description = description ? description : content.slice(0, 120);
+  description = description ? description : title;
 
   return (
     <Base title={title} description={description}>
