@@ -1,0 +1,2 @@
+North Tripyramid
+Middle Tripyramid

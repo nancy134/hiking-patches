@@ -34,16 +34,50 @@ export const getStaticPaths = () => {
   };
 };
 
-// get post single content
+// get peak single content
 export const getStaticProps = async ({ params }) => {
   const { single } = params;
-  const posts = getSinglePage(`content/${peak_folder}`);
-  const post = posts.filter((p) => p.slug == single);
-  const mdxContent = await parseMDX(post[0].content);
+  const peakPages = getSinglePage(`content/${peak_folder}`);
+  const peakPage = peakPages.filter((p) => p.slug == single);
+  var peakPageContent = peakPage[0].content
+
+  // Get hike-peak pages (ie, data/hike-peak
+  const hikePeakPages = getSinglePage('data/hike-peak');
+  // Loop through to see if this Peak is in a hike
+  var hikes=[];
+  for (var i=0; i<hikePeakPages.length; i++){
+    var hikePeakContent = hikePeakPages[i].content;
+    var hikePeaks = hikePeakContent.split('\n');
+    for (var j=0; j<hikePeaks.length; j++){
+      if (hikePeaks[j] == single){
+        hikes.push(hikePeakPages[i].slug);
+      }
+    }
+  }
+  console.log(hikes);
+
+  // ### Upcoming Hikes
+  peakPageContent += '\n';
+  peakPageContent += "### Upcoming Hikes\n";
+  peakPageContent += "|Date|Title|\n";
+  peakPageContent += "|--|--|\n";
+
+  for (var l=0; l<hikes.length; l++){
+     const hikePages = getSinglePage('content/hikes');
+     const hikePage = hikePages.filter((p) => p.slug == hikes[l]);
+
+     var date = new Date(Date.parse(hikePage[0].frontmatter.date));
+
+     peakPageContent +=
+       "|" + date.toDateString() +
+       "|" + "[" + hikePage[0].frontmatter.title + "](" + "../hikes/" + hikePage[0].slug + ")" +
+       "|\n";
+  } 
+  const mdxContent = await parseMDX(peakPageContent);
 
   return {
     props: {
-      post: post,
+      post: peakPage,
       mdxContent: mdxContent,
       slug: single,
     },
