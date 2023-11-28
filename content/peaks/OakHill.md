@@ -1,7 +1,6 @@
 ---
 title: Oak Hill 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 960 
 draft: false
 ---
