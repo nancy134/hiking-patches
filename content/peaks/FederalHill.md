@@ -1,7 +1,6 @@
 ---
 title: Federal Hill 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 690 
 draft: false
 ---
