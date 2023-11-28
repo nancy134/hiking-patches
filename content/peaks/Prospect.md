@@ -1,7 +1,6 @@
 ---
 title: Propect Mountain 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 1720 
 draft: false
 ---

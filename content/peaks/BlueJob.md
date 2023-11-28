@@ -1,7 +1,6 @@
 ---
 title: Blue Job Mountain 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 1352 
 draft: false
 ---

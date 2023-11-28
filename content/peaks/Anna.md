@@ -1,7 +1,6 @@
 ---
 title: Anna Mountain
-description: ""
-image: ""
+state: New Hampshire
 elevation: 1660 
 draft: false
 ---
