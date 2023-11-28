@@ -1,7 +1,6 @@
 ---
 title: Sentine 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 1680
 draft: false
 ---
