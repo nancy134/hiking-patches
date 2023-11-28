@@ -1,7 +1,6 @@
 ---
 title: Mount Major 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 1786
 draft: false
 ---
