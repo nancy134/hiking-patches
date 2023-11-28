@@ -1,7 +1,6 @@
 ---
 title: Warner Hill 
-description: ""
-image: ""
+state: New Hampshire
 elevation: 600 
 draft: false
 ---
