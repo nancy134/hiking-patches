@@ -3,6 +3,7 @@ title: New England 67 4k in winter
 description: "To earn this patch, hike all the Northeast 111 peaks on the list"
 image: "/images/patch-ne-67-4k-winter.png"
 order: 9
+states: New Hampshire, Maine, Vermont
 date: 2022-01-06T06:00:00+00:00
 draft: false
 ---

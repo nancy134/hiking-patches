@@ -44,6 +44,10 @@ const PeakPagination = ({ postIndex, posts, currentPage, pagination }) => {
             href="/peaks/page/massachusetts"
             className="cta-link inline-flex items-center text-primary mr-3"
           >Massachusetts</Link>
+          <Link
+            href="/peaks/page/newyork"
+            className="cta-link inline-flex items-center text-primary mr-3"
+          >New York</Link>
 
 
           <Peaks posts={currentPosts} />

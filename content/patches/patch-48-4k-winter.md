@@ -4,6 +4,7 @@ description: "To earn this patch, hike all New Hampshires 48 4k peaks in winter"
 image: "/images/patch-48-4k-winter.jpeg"
 order: 8
 date: 2022-01-08T06:00:00+00:00
+states: New Hampshire
 draft: false
 ---
 #### How to get this patch
