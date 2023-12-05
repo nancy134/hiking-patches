@@ -1,2 +1,0 @@
-North Kinsman
-South Kinsman
