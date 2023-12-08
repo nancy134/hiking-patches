@@ -3,6 +3,7 @@ import theme from "@config/theme.json";
 import Head from "next/head";
 import { useEffect, useState } from "react";
 import TagManager from "react-gtm-module";
+import Script from "next/script";
 import "styles/style.scss";
 
 const App = ({ Component, pageProps }) => {
@@ -53,6 +54,12 @@ const App = ({ Component, pageProps }) => {
           content="width=device-width, initial-scale=1, maximum-scale=5"
         />
       </Head>
+      <Script
+        id="adsbygoogle-init"
+        strategy="afterInteractive"
+        crossOrigin="anonymous"
+        src= "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2022748273223419"
+      />
       <Component {...pageProps} />
     </>
   );
