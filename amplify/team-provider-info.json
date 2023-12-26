@@ -10,6 +10,11 @@
       "StackName": "amplify-hikingpatches-dev-190441",
       "StackId": "arn:aws:cloudformation:us-east-1:461318555119:stack/amplify-hikingpatches-dev-190441/5e9ae6f0-a382-11ee-a7bc-0e2c3aaeb265",
       "AmplifyAppId": "d3mgis3knwk2q4"
+    },
+    "categories": {
+      "auth": {
+        "hikingpatches841ca1bc": {}
+      }
     }
   }
 }
