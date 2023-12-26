@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hikingpatches-dev-190441-authRole",
+      "UnauthRoleArn": "arn:aws:iam::461318555119:role/amplify-hikingpatches-dev-190441-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::461318555119:role/amplify-hikingpatches-dev-190441-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hikingpatches-dev-190441-deployment",
+      "UnauthRoleName": "amplify-hikingpatches-dev-190441-unauthRole",
+      "StackName": "amplify-hikingpatches-dev-190441",
+      "StackId": "arn:aws:cloudformation:us-east-1:461318555119:stack/amplify-hikingpatches-dev-190441/5e9ae6f0-a382-11ee-a7bc-0e2c3aaeb265",
+      "AmplifyAppId": "d3mgis3knwk2q4"
+    }
+  }
+}
