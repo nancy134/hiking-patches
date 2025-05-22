@@ -1,2 +1,0 @@
-Shelburne Moriah
-Paugus

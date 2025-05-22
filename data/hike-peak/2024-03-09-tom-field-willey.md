@@ -1,3 +1,0 @@
-Tom
-Field
-Willey
