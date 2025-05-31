@@ -1,7 +1,7 @@
 ---
 title: NET Hike Challenage 
 description: "To earn this patch, hike the New England Trail."
-image: "/images/patch-net.png"
+image: "/images/patch-net.jpg"
 order: 21
 states: Massachusetts, Connecticut
 date: 2025-05-30T06:00:00+00:00
